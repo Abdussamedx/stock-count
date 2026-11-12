@@ -1,8 +1,8 @@
+Envelopes 500
+Glue 25
+Labels 300
+Markers 75
 Notebook 118
 Pencil 450
 Stapler 14
 Tape 58
-Labels 300
-Glue 25
-Envelopes 500
-Markers 75

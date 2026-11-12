@@ -35,3 +35,5 @@ Every line of the count has a commit behind it:
 ## Decisions
 
 [0001 The count is a plain text file](docs/adr/0001-plain-text-count.md)
+
+[0002 Only pull requests can change main](docs/adr/0002-pull-requests-only.md)
